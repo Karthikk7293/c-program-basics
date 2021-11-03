@@ -1,0 +1,15 @@
+10:04:26 **** Incremental Build of configuration Debug for project function4 ****
+make all 
+Building file: ../src/function4.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/function4.d" -MT"src/function4.o" -o "src/function4.o" "../src/function4.c"
+Finished building: ../src/function4.c
+ 
+Building target: function4
+Invoking: GCC C Linker
+gcc  -o "function4"  ./src/function4.o   
+Finished building target: function4
+ 
+
+10:04:27 Build Finished. 0 errors, 0 warnings. (took 817ms)
+

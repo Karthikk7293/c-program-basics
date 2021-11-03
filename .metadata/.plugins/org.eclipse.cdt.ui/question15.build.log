@@ -1,0 +1,31 @@
+11:15:03 **** Incremental Build of configuration Debug for project question15 ****
+make all 
+Building file: ../src/question15.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/question15.d" -MT"src/question15.o" -o "src/question15.o" "../src/question15.c"
+../src/question15.c: In function ‘main’:
+../src/question15.c:17:13: error: expected expression before ‘int’
+   17 |  a=getarray(int array[]);
+      |             ^~~
+../src/question15.c:19:2: warning: implicit declaration of function ‘displayarray’ [-Wimplicit-function-declaration]
+   19 |  displayarray();
+      |  ^~~~~~~~~~~~
+../src/question15.c:16:6: warning: variable ‘a’ set but not used [-Wunused-but-set-variable]
+   16 |  int a;
+      |      ^
+../src/question15.c: At top level:
+../src/question15.c:22:6: error: conflicting types for ‘getarray’
+   22 | int *getarray(){
+      |      ^~~~~~~~
+../src/question15.c:13:5: note: previous declaration of ‘getarray’ was here
+   13 | int getarray();
+      |     ^~~~~~~~
+../src/question15.c: In function ‘getarray’:
+../src/question15.c:29:9: warning: function returns address of local variable [-Wreturn-local-addr]
+   29 |  return a;
+      |         ^
+make: *** [src/subdir.mk:20: src/question15.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+11:15:04 Build Failed. 3 errors, 3 warnings. (took 870ms)
+

@@ -1,0 +1,15 @@
+10:00:24 **** Incremental Build of configuration Debug for project for loops ****
+make all 
+Building file: ../src/for loops.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loops.d" -MT"src/for loops.o" -o "src/for loops.o" "../src/for loops.c"
+Finished building: ../src/for loops.c
+ 
+Building target: for loops
+Invoking: GCC C Linker
+gcc  -o "for loops"  ./src/for\ loops.o   
+Finished building target: for loops
+ 
+
+10:00:24 Build Finished. 0 errors, 0 warnings. (took 870ms)
+

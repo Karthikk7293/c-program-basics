@@ -1,0 +1,20 @@
+09:49:25 **** Incremental Build of configuration Debug for project function3 ****
+make all 
+Building file: ../src/function3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/function3.d" -MT"src/function3.o" -o "src/function3.o" "../src/function3.c"
+../src/function3.c: In function ‘sum’:
+../src/function3.c:22:5: warning: type of ‘num1’ defaults to ‘int’ [-Wimplicit-int]
+   22 | int sum(num1, num2){
+      |     ^~~
+../src/function3.c:22:5: warning: type of ‘num2’ defaults to ‘int’ [-Wimplicit-int]
+Finished building: ../src/function3.c
+ 
+Building target: function3
+Invoking: GCC C Linker
+gcc  -o "function3"  ./src/function3.o   
+Finished building target: function3
+ 
+
+09:49:26 Build Finished. 0 errors, 2 warnings. (took 924ms)
+

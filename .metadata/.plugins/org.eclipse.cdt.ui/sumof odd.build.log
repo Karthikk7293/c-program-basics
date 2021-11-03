@@ -1,0 +1,15 @@
+13:45:24 **** Incremental Build of configuration Debug for project sumof odd ****
+make all 
+Building file: ../src/sumof odd.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sumof odd.d" -MT"src/sumof odd.o" -o "src/sumof odd.o" "../src/sumof odd.c"
+Finished building: ../src/sumof odd.c
+ 
+Building target: sumof odd
+Invoking: GCC C Linker
+gcc  -o "sumof odd"  ./src/sumof\ odd.o   
+Finished building target: sumof odd
+ 
+
+13:45:25 Build Finished. 0 errors, 0 warnings. (took 841ms)
+

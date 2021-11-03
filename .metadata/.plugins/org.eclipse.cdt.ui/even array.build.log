@@ -1,0 +1,15 @@
+16:23:22 **** Incremental Build of configuration Debug for project even array ****
+make all 
+Building file: ../src/even array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/even array.d" -MT"src/even array.o" -o "src/even array.o" "../src/even array.c"
+Finished building: ../src/even array.c
+ 
+Building target: even array
+Invoking: GCC C Linker
+gcc  -o "even array"  ./src/even\ array.o   
+Finished building target: even array
+ 
+
+16:23:22 Build Finished. 0 errors, 0 warnings. (took 820ms)
+

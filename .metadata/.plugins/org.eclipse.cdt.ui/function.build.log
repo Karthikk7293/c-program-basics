@@ -1,0 +1,15 @@
+20:49:01 **** Incremental Build of configuration Debug for project function ****
+make all 
+Building file: ../src/function.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/function.d" -MT"src/function.o" -o "src/function.o" "../src/function.c"
+Finished building: ../src/function.c
+ 
+Building target: function
+Invoking: GCC C Linker
+gcc  -o "function"  ./src/function.o   
+Finished building target: function
+ 
+
+20:49:02 Build Finished. 0 errors, 0 warnings. (took 934ms)
+

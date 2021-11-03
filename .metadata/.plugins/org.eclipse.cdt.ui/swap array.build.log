@@ -1,0 +1,15 @@
+15:23:19 **** Incremental Build of configuration Debug for project swap array ****
+make all 
+Building file: ../src/swap array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/swap array.d" -MT"src/swap array.o" -o "src/swap array.o" "../src/swap array.c"
+Finished building: ../src/swap array.c
+ 
+Building target: swap array
+Invoking: GCC C Linker
+gcc  -o "swap array"  ./src/swap\ array.o   
+Finished building target: swap array
+ 
+
+15:23:20 Build Finished. 0 errors, 0 warnings. (took 822ms)
+

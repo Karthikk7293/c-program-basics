@@ -1,0 +1,22 @@
+12:15:34 **** Incremental Build of configuration Debug for project char ****
+make all 
+Building file: ../src/char.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/char.d" -MT"src/char.o" -o "src/char.o" "../src/char.c"
+../src/char.c: In function ‘main’:
+../src/char.c:17:9: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘char (*)[10]’ [-Wformat=]
+   17 | scanf("%s",&name);
+      |        ~^  ~~~~~
+      |         |  |
+      |         |  char (*)[10]
+      |         char *
+Finished building: ../src/char.c
+ 
+Building target: char
+Invoking: GCC C Linker
+gcc  -o "char"  ./src/char.o   
+Finished building target: char
+ 
+
+12:15:35 Build Finished. 0 errors, 1 warnings. (took 819ms)
+

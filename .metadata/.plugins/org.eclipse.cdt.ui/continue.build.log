@@ -1,0 +1,15 @@
+21:21:04 **** Incremental Build of configuration Debug for project continue ****
+make all 
+Building file: ../src/continue.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/continue.d" -MT"src/continue.o" -o "src/continue.o" "../src/continue.c"
+Finished building: ../src/continue.c
+ 
+Building target: continue
+Invoking: GCC C Linker
+gcc  -o "continue"  ./src/continue.o   
+Finished building target: continue
+ 
+
+21:21:05 Build Finished. 0 errors, 0 warnings. (took 818ms)
+

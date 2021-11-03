@@ -1,0 +1,19 @@
+11:22:25 **** Incremental Build of configuration Debug for project copied ****
+make all 
+Building file: ../src/copied.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/copied.d" -MT"src/copied.o" -o "src/copied.o" "../src/copied.c"
+../src/copied.c: In function ‘getarray’:
+../src/copied.c:23:12: warning: function returns address of local variable [-Wreturn-local-addr]
+   23 |     return arr;
+      |            ^~~
+Finished building: ../src/copied.c
+ 
+Building target: copied
+Invoking: GCC C Linker
+gcc  -o "copied"  ./src/copied.o   
+Finished building target: copied
+ 
+
+11:22:26 Build Finished. 0 errors, 1 warnings. (took 826ms)
+

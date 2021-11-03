@@ -1,0 +1,37 @@
+/*
+ ============================================================================
+ Name        : question15.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+int getarray();
+void displayarray();
+int main(void) {
+	getarray()
+	displayarray(getarray(a,limit));
+	return EXIT_SUCCESS;
+}
+int getarray(){
+	int a[10],i,limit;
+	printf("please enter the limit\n");
+	scanf("%d",&limit);
+	printf("please enter the array elements/n");
+	for (i=0; i<limit; i++){
+		scanf("%d",&a[i]);
+	}
+	return a[i],limit;
+}
+void dispplarray(int array[],int limit){
+	int i;
+	printf("the array elements are\n");
+	for(i=0; i<limit; i++){
+		printf("%d",array[i]);
+	}
+
+}

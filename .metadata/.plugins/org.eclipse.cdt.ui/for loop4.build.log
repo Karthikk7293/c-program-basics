@@ -1,0 +1,14 @@
+22:18:05 **** Incremental Build of configuration Debug for project for loop4 ****
+make all 
+Building file: ../src/for loop4.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loop4.d" -MT"src/for loop4.o" -o "src/for loop4.o" "../src/for loop4.c"
+../src/for loop4.c: In function ‘main’:
+../src/for loop4.c:18:17: error: invalid type argument of unary ‘*’ (have ‘int’)
+   18 |  for(i=0;i<32;i=*2){
+      |                 ^~
+make: *** [src/subdir.mk:20: src/for loop4.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+22:18:06 Build Failed. 2 errors, 0 warnings. (took 823ms)
+

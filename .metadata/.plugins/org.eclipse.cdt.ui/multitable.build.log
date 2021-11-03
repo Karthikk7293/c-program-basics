@@ -1,0 +1,15 @@
+13:20:23 **** Incremental Build of configuration Debug for project multitable ****
+make all 
+Building file: ../src/multitable.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multitable.d" -MT"src/multitable.o" -o "src/multitable.o" "../src/multitable.c"
+Finished building: ../src/multitable.c
+ 
+Building target: multitable
+Invoking: GCC C Linker
+gcc  -o "multitable"  ./src/multitable.o   
+Finished building target: multitable
+ 
+
+13:20:23 Build Finished. 0 errors, 0 warnings. (took 869ms)
+

@@ -1,0 +1,20 @@
+22:43:14 **** Build of configuration Debug for project for loop5 ****
+make all 
+Building file: ../src/for loop5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loop5.d" -MT"src/for loop5.o" -o "src/for loop5.o" "../src/for loop5.c"
+../src/for loop5.c: In function ‘main’:
+../src/for loop5.c:16:2: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘return’
+   16 |  return EXIT_SUCCESS;
+      |  ^~~~~~
+../src/for loop5.c:15:8: warning: unused variable ‘j’ [-Wunused-variable]
+   15 |  int i,j,limit
+      |        ^
+../src/for loop5.c:15:6: warning: unused variable ‘i’ [-Wunused-variable]
+   15 |  int i,j,limit
+      |      ^
+make: *** [src/subdir.mk:20: src/for loop5.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+22:43:15 Build Failed. 2 errors, 2 warnings. (took 789ms)
+

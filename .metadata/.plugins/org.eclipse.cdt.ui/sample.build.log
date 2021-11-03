@@ -1,0 +1,15 @@
+09:21:54 **** Incremental Build of configuration Debug for project sample ****
+make all 
+Building file: ../src/sample.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample.d" -MT"src/sample.o" -o "src/sample.o" "../src/sample.c"
+../src/sample.c: In function ‘main’:
+../src/sample.c:24:20: error: ‘n’ undeclared (first use in this function)
+   24 |       if(i==1 ||i==n||j==1||j==n-i+1||i==j||j==n){
+      |                    ^
+../src/sample.c:24:20: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:20: src/sample.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+09:21:55 Build Failed. 2 errors, 0 warnings. (took 769ms)
+

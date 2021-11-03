@@ -1,0 +1,13 @@
+22:47:41 **** Incremental Build of configuration Debug for project for loop6 ****
+make all 
+Building file: ../src/for loop6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loop6.d" -MT"src/for loop6.o" -o "src/for loop6.o" "../src/for loop6.c"
+../src/for loop6.c:30:1: error: expected identifier or ‘(’ before ‘}’ token
+   30 | }
+      | ^
+make: *** [src/subdir.mk:20: src/for loop6.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+22:47:42 Build Failed. 2 errors, 0 warnings. (took 766ms)
+

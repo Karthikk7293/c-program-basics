@@ -1,0 +1,6 @@
+10:13:46 **** Incremental Build of configuration Debug for project first qstn ****
+make all 
+make: Nothing to be done for 'all'.
+
+10:13:47 Build Finished. 0 errors, 0 warnings. (took 781ms)
+

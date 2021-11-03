@@ -1,0 +1,15 @@
+11:54:32 **** Incremental Build of configuration Debug for project selectionsort ****
+make all 
+Building file: ../src/selectionsort.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/selectionsort.d" -MT"src/selectionsort.o" -o "src/selectionsort.o" "../src/selectionsort.c"
+Finished building: ../src/selectionsort.c
+ 
+Building target: selectionsort
+Invoking: GCC C Linker
+gcc  -o "selectionsort"  ./src/selectionsort.o   
+Finished building target: selectionsort
+ 
+
+11:54:33 Build Finished. 0 errors, 0 warnings. (took 872ms)
+

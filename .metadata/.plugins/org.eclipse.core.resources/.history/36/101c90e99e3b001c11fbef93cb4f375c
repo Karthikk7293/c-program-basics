@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : search.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i,search=10;
+	int a[10];
+	for(i=0; i<5; i++){
+		scanf("%d",&a[i]);
+	}
+	if(search==a[i]){
+		printf(" key found : %d",i+1);
+				break;
+	}
+	return EXIT_SUCCESS;
+}

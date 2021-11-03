@@ -1,0 +1,15 @@
+18:31:23 **** Incremental Build of configuration Debug for project 2d array addition ****
+make all 
+Building file: ../src/2d array addition.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/2d array addition.d" -MT"src/2d array addition.o" -o "src/2d array addition.o" "../src/2d array addition.c"
+Finished building: ../src/2d array addition.c
+ 
+Building target: 2d array addition
+Invoking: GCC C Linker
+gcc  -o "2d array addition"  ./src/2d\ array\ addition.o   
+Finished building target: 2d array addition
+ 
+
+18:31:23 Build Finished. 0 errors, 0 warnings. (took 876ms)
+
