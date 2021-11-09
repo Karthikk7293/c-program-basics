@@ -1,65 +1,26 @@
-11:18:44 **** Build of configuration Debug for project copied ****
+19:25:59 **** Incremental Build of configuration Debug for project Array18 ****
 make all 
-Building file: ../src/copied.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/copied.d" -MT"src/copied.o" -o "src/copied.o" "../src/copied.c"
-Finished building: ../src/copied.c
- 
-Building target: copied
+Building target: Array18
 Invoking: GCC C Linker
-gcc  -o "copied"  ./src/copied.o   
-Finished building target: copied
- 
-11:18:52 **** Incremental Build of configuration Debug for project copied ****
-make all 
-Building file: ../src/copied.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/copied.d" -MT"src/copied.o" -o "src/copied.o" "../src/copied.c"
-../src/copied.c: In function ‘getarray’:
-../src/copied.c:23:12: warning: function returns address of local variable [-Wreturn-local-addr]
-   23 |     return arr;
-      |            ^~~
-Finished building: ../src/copied.c
- 
-Building target: copied
-Invoking: GCC C Linker
-gcc  -o "copied"  ./src/copied.o   
-Finished building target: copied
- 
-11:21:25 **** Incremental Build of configuration Debug for project copied ****
-make all 
-make: Nothing to be done for 'all'.
-11:22:07 **** Incremental Build of configuration Debug for project copied ****
-make all 
-Building file: ../src/copied.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/copied.d" -MT"src/copied.o" -o "src/copied.o" "../src/copied.c"
-../src/copied.c: In function ‘getarray’:
-../src/copied.c:23:12: warning: returning ‘int *’ from a function with return type ‘int’ makes integer from pointer without a cast [-Wint-conversion]
-   23 |     return arr;
-      |            ^~~
-../src/copied.c: In function ‘main’:
-../src/copied.c:32:23: error: subscripted value is neither array nor pointer nor vector
-   32 |         printf("%d", n[i]);
-      |                       ^
-../src/copied.c:27:7: warning: variable ‘n’ set but not used [-Wunused-but-set-variable]
-   27 |   int n ;
-      |       ^
-make: *** [src/subdir.mk:20: src/copied.o] Error 1
+gcc  -o "Array18"  ./src/Array18.o   
+/usr/bin/ld: ./src/Array18.o: in function `main':
+/home/user/eclipse-workspace/Array18/Debug/../src/Array18.c:19: undefined reference to `Scanf'
+collect2: error: ld returned 1 exit status
+make: *** [makefile:46: Array18] Error 1
 "make all" terminated with exit code 2. Build might be incomplete.
-11:22:25 **** Incremental Build of configuration Debug for project copied ****
+19:26:04 **** Incremental Build of configuration Debug for project Array18 ****
 make all 
-Building file: ../src/copied.c
+Building file: ../src/Array18.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/copied.d" -MT"src/copied.o" -o "src/copied.o" "../src/copied.c"
-../src/copied.c: In function ‘getarray’:
-../src/copied.c:23:12: warning: function returns address of local variable [-Wreturn-local-addr]
-   23 |     return arr;
-      |            ^~~
-Finished building: ../src/copied.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Array18.d" -MT"src/Array18.o" -o "src/Array18.o" "../src/Array18.c"
+../src/Array18.c: In function ‘main’:
+../src/Array18.c:16:8: warning: unused variable ‘j’ [-Wunused-variable]
+   16 |  int i,j,sum=0,limit=10;
+      |        ^
+Finished building: ../src/Array18.c
  
-Building target: copied
+Building target: Array18
 Invoking: GCC C Linker
-gcc  -o "copied"  ./src/copied.o   
-Finished building target: copied
+gcc  -o "Array18"  ./src/Array18.o   
+Finished building target: Array18
  
