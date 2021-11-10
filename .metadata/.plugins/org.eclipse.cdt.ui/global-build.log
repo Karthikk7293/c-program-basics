@@ -1,26 +1,129 @@
-19:25:59 **** Incremental Build of configuration Debug for project Array18 ****
+16:07:46 **** Incremental Build of configuration Debug for project HollowPyramid ****
 make all 
-Building target: Array18
-Invoking: GCC C Linker
-gcc  -o "Array18"  ./src/Array18.o   
-/usr/bin/ld: ./src/Array18.o: in function `main':
-/home/user/eclipse-workspace/Array18/Debug/../src/Array18.c:19: undefined reference to `Scanf'
-collect2: error: ld returned 1 exit status
-make: *** [makefile:46: Array18] Error 1
-"make all" terminated with exit code 2. Build might be incomplete.
-19:26:04 **** Incremental Build of configuration Debug for project Array18 ****
+make: Nothing to be done for 'all'.
+16:07:51 **** Incremental Build of configuration Debug for project pyramidpattern ****
 make all 
-Building file: ../src/Array18.c
+make: Nothing to be done for 'all'.
+16:08:11 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+make: Nothing to be done for 'all'.
+16:09:10 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Array18.d" -MT"src/Array18.o" -o "src/Array18.o" "../src/Array18.c"
-../src/Array18.c: In function ‘main’:
-../src/Array18.c:16:8: warning: unused variable ‘j’ [-Wunused-variable]
-   16 |  int i,j,sum=0,limit=10;
-      |        ^
-Finished building: ../src/Array18.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
  
-Building target: Array18
+Building target: HollowPyramid
 Invoking: GCC C Linker
-gcc  -o "Array18"  ./src/Array18.o   
-Finished building target: Array18
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:22:41 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:22:59 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:23:16 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:25:01 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:25:46 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:26:04 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:26:20 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:27:09 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
+ 
+16:27:20 **** Incremental Build of configuration Debug for project HollowPyramid ****
+make all 
+Building file: ../src/HollowPyramid.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
+Finished building: ../src/HollowPyramid.c
+ 
+Building target: HollowPyramid
+Invoking: GCC C Linker
+gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
+Finished building target: HollowPyramid
  
