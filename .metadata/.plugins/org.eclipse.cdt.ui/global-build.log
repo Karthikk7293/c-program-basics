@@ -1,129 +1,309 @@
-16:07:46 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:20:49 **** Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:20:56 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:21:17 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:21:58 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:22:43 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:22:57 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
 make: Nothing to be done for 'all'.
-16:07:51 **** Incremental Build of configuration Debug for project pyramidpattern ****
+15:25:49 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:26:39 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:27:37 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:27:54 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:28:07 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:28:43 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:28:55 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:29:04 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:30:10 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+../src/pattern14a6.c: In function ‘main’:
+../src/pattern14a6.c:15:11: warning: unused variable ‘k’ [-Wunused-variable]
+   15 |  int i ,j,k=1 ,limit=5;
+      |           ^
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:30:55 **** Incremental Build of configuration Debug for project pattern14a6 ****
+make all 
+Building file: ../src/pattern14a6.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+../src/pattern14a6.c: In function ‘main’:
+../src/pattern14a6.c:22:9: warning: statement with no effect [-Wunused-value]
+   22 |    }else(" ");
+      |         ^
+../src/pattern14a6.c:15:11: warning: unused variable ‘k’ [-Wunused-variable]
+   15 |  int i ,j,k=1 ,limit=5;
+      |           ^
+Finished building: ../src/pattern14a6.c
+ 
+Building target: pattern14a6
+Invoking: GCC C Linker
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
+ 
+15:30:59 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
 make: Nothing to be done for 'all'.
-16:08:11 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:31:17 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-make: Nothing to be done for 'all'.
-16:09:10 **** Incremental Build of configuration Debug for project HollowPyramid ****
-make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+../src/pattern14a6.c: In function ‘main’:
+../src/pattern14a6.c:15:11: warning: unused variable ‘k’ [-Wunused-variable]
+   15 |  int i ,j,k=1 ,limit=5;
+      |           ^
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
-16:22:41 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:33:15 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
-16:22:59 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:33:28 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
-16:23:16 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:33:45 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
-16:25:01 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:34:20 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
-16:25:46 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:36:06 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
-16:26:04 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:36:18 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
-16:26:20 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:37:37 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
-16:27:09 **** Incremental Build of configuration Debug for project HollowPyramid ****
+15:38:05 **** Incremental Build of configuration Debug for project pattern14a6 ****
 make all 
-Building file: ../src/HollowPyramid.c
+Building file: ../src/pattern14a6.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/pattern14a6.d" -MT"src/pattern14a6.o" -o "src/pattern14a6.o" "../src/pattern14a6.c"
+Finished building: ../src/pattern14a6.c
  
-Building target: HollowPyramid
+Building target: pattern14a6
 Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
- 
-16:27:20 **** Incremental Build of configuration Debug for project HollowPyramid ****
-make all 
-Building file: ../src/HollowPyramid.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HollowPyramid.d" -MT"src/HollowPyramid.o" -o "src/HollowPyramid.o" "../src/HollowPyramid.c"
-Finished building: ../src/HollowPyramid.c
- 
-Building target: HollowPyramid
-Invoking: GCC C Linker
-gcc  -o "HollowPyramid"  ./src/HollowPyramid.o   
-Finished building target: HollowPyramid
+gcc  -o "pattern14a6"  ./src/pattern14a6.o   
+Finished building target: pattern14a6
  
